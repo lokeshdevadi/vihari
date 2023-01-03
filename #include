@@ -1,0 +1,7 @@
+#include<stdio.h>
+void maim()
+{
+int num;
+printf("enter the num:  ");
+scanf("%d",&num);
+temp=num;
